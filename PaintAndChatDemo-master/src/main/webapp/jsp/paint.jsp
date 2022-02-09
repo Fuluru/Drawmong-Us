@@ -7,7 +7,7 @@
 </head>
 <body>
 <h1><Paint</h1>
-<canvas id="mycanvas" height="150px" width="150px"></canvas>
+<canvas id="mycanvas" height="700px" width="700px"></canvas>
 <script type="text/javascript">
     new Paint(document.getElementById('mycanvas'));
 </script>
